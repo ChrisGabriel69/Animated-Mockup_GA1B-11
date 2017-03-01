@@ -1,0 +1,15 @@
+Hier alle psd's, animate bestanden, etc. waarin jullie de afbeeldingen en animaties maken/bewerken.
+
+Ook verzamelde materialen van het internet (zoals geluiden) waar nog uit gekozen moet worden of welke bewerkt
+gaan worden moeten hier komen te staan.
+
+Belangrijk! -> Maak hier folders aan
+Bijvoorbeeld
+
+Animaties\
+Menus\
+Special fx\
+Achtergronden\
+etcetera.
+
+Het is aan jullie hoe jullie dit slim organiseren, maar gooi niet alles bij elkaar!

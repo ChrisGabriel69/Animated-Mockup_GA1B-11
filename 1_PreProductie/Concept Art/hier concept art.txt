@@ -1,0 +1,9 @@
+hier concept materiaal voor karakters.
+Alles wat je maakt en gebruikt!
+
+Dit kan zowel referentie materiaal zijn als eigen werk.
+Hou concepten simpel; het gaat om de verkenning van ideeen en maken van keuzes die passen bij de gekozen game stijl.
+
+Maak aparte folders voor bijvoorbeeld referentie materiaal, karakters ontwerpen, environments, menus, effecten.
+
+Zet uiteindelijke versies in _Eindproducten.

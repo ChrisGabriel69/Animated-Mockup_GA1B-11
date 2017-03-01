@@ -1,0 +1,9 @@
+planning bestaat uit:
+
+- assetlist
+- MSCW
+- planning (taakverdeling en tijdschatting)
+
+Deze zaken gaan jullie op een Trello board bijhouden,
+Maar de eerste versie van assetlist, mscw en planning moeten in deze folder gezet worden als word documentjes.
+

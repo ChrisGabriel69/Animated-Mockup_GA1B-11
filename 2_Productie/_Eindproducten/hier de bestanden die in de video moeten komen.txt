@@ -1,0 +1,17 @@
+Hier exports vanuit bijvoorbeeld photoshop en flash, renders vanuit cinema,
+achtergrondafbeeldingen, interface png's etc.
+
+Ook de geluiden en muziekjes die in de video komen hier plaatsen.
+
+Hier moet ALLES staan dat jullie in de laatste fase (de video samenstellen) nodig gaan hebben.
+Niet meer, niet minder.
+
+Zet alles netjes in folders, bijvoorbeeld
+
+Geluidseffecten\
+Animaties\
+Special fx\
+Achtergronden\
+etcetera.
+
+Het is aan jullie hoe jullie dit slim organiseren, maar gooi niet alles bij elkaar!
